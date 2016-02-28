@@ -49,8 +49,8 @@ def post(url, data):
 
 def login():
     rpar = {
-                'loginname':'zerohero.xij@qq.com',
-                'loginpass':'Aster4data',
+                'loginname':'xxx',
+                'loginpass':'xxx',
                 'action':'login',
                 'token':'1cfc87a2'
                 }
